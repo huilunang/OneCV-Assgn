@@ -16,7 +16,7 @@ Before running this application, ensure that you have the following software ins
 - [Make](https://www.gnu.org/software/make/)
 - [Docker](https://www.docker.com/)
 
-> *This application has been tested with Go version 1.22.0.
+> *Note: This application has been tested with Go version 1.22.0.
 
 # Running the Server
 
